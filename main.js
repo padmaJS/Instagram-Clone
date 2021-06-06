@@ -33,4 +33,6 @@ function load() {
             
     	})
     });
+    var pp = document.getElementById('pp');
+    pp.src = feedData[0].pp_url;
 }
