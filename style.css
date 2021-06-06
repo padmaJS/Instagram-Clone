@@ -102,16 +102,14 @@ span button.button-clear{
 	font-size: 18px;
 }
 img.uploadedImg{
-	max-height: 613px;
+	max-width: 100%;
+	height: auto;
+	padding: 8px;	
 
 }
 div.body{
 	border-top: 1px solid #dbdbdb;
 	border-bottom: 1px solid #dbdbdb;
-}
-div.img{
-	height: 613px;
-	width: 613px;
 }
 div.buttonSection{
 	position: relative;
